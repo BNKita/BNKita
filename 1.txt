@@ -1,0 +1,1 @@
+docker run -d -p 8080:8080 -v /Users/nikitabeliaev/classroom/jenkins-classes:/var/jenkins_home lts_jenkins
